@@ -3,7 +3,7 @@
 Amparo, SP • Especialista em integrações, APIs e ecossistemas **PHP/Laravel** e **JavaScript/TypeScript** • Experiência sólida com **TOTVS RM**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-de-mattos-de-lima)
-[![E-mail](https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandrodelim@hotmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandrodelim@gmail.com)
 
 ---
 
@@ -74,4 +74,4 @@ Sou Analista de Sistemas com trajetória em **desenvolvimento de software**, **i
 
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/sandro-de-mattos-de-lima  
-- E-mail: sandrodelim@hotmail.com
+- E-mail: sandrodelim@gmail.com
