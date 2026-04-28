@@ -4,7 +4,7 @@ Amparo, SP • Especialista em integrações, APIs e ecossistemas **PHP/Laravel*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-de-mattos-de-lima)
 [![E-mail](https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandrodelim@gmail.com)
-[![Blog](https://sandrodelim.github.io/)](https://sandrodelim.github.io)
+[![Blog](https://img.shields.io/badge/Blog-0077B5?style=for-the-badge&logo=blog&logoColor=white)](https://sandrodelim.github.io)
 
 
 ---
