@@ -27,6 +27,9 @@ Sou Analista de Sistemas com trajetória em **desenvolvimento de software**, **i
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
+![GO](https://img.shields.io/badge/GO-00769c?style=for-the-badge&logo=go&logoColor=fff)
+
+
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,23 +60,4 @@ Sou Analista de Sistemas com trajetória em **desenvolvimento de software**, **i
 - **TOTVS RM**, SharePoint  
 - **Clean Code**, **Clean Architecture**, **Hexagonal Architecture**  
 - **ITIL Foundation**  
-- Inglês: intermediário (leitura técnica e conversação básica)
 
----
-
-## Experiência (resumo)
-**Cervejaria Ashby — Analista de Sistemas (Jul/2025 • atual)**  
-- Integrações entre **TOTVS RM** e plataformas externas via **APIs/Web Services**
-- Sistemas internos com **C#** e **Angular**
-- Rotinas e procedimentos **agendados** para automação de fluxos
-
-**HTM Eletrônica — Programador Pleno (Jul/2022 • Jul/2025)**  
-- Soluções Web com **PHP/CodeIgniter**, **JavaScript**, **MySQL/PostgreSQL**
-- **Docker** e **Redis**
-- Versionamento e fluxo com **Git**
-
----
-
-## Contato
-- LinkedIn: https://www.linkedin.com/in/sandro-de-mattos-de-lima  
-- E-mail: sandrodelim@gmail.com
